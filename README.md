@@ -1,6 +1,6 @@
 # **eyesTracker**
 <img src="oneeye.png" width='150' />
-This project demonstrate one of the capabilities of JavaScript to keep track of the mouse pointer. This project uses “onmousemove” event handler to manipulate UI. The UI is comprised html file with place holder for two images. The image has green background with white eye and a black eye ball. As the JavaScript detects the mouseover handler the eye balls are manipulated to look at the latest location of the mouse pointer.
+This project demonstrates one of the capabilities of JavaScript to keep track of the mouse pointer. This project uses “onmousemove” event handler to manipulate UI. The UI is comprised html file with place holder for two images. The image has green background with white eye and a black eye ball. As the JavaScript detects the mouseover handler the eye balls are manipulated to look at the latest location of the mouse pointer.
 
 
 # How to Run
